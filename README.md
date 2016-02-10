@@ -16,4 +16,4 @@ Once the program is done transcribing, you can find your srt file in project fol
 ##Tips
 
 * I have included a demo file, grammar.wav to help you test the program
-* Sphinx works best with audio files that follow [certain propperties](). If you are not getting really good results, this could be one of reasons
+* If you are not happpy with the accuracy you are getting, you should definitely refer to [this FAQ](http://cmusphinx.sourceforge.net/wiki/faq). It will help a lot.
